@@ -12,6 +12,10 @@ Data description:
 
 The dataset includes several tables capturing state-wise and region-wise unemployment data across India, focusing on both rural and urban sectors. Key attributes such as unemployment rate, number of employed individuals, and labor participation rate are recorded for each state, accompanied by a date to track temporal trends. The data is organized by state and further categorized by region (North, South, East, West, and Northeast), with geographic markers like longitude and latitude for spatial analysis. Separate tables are provided for monthly total, rural, and urban unemployment statistics, allowing for detailed sectoral comparisons. Additionally, the dataset supports longitudinal analysis, making it possible to study trends over time, especially before and after the COVID-19 pandemic.
 
+Data processing:
+
+I downloaded data from Kaggle in TXT format and imported it into Excel, utilizing delimiters for proper formatting. Subsequently, I employed Power Query to unpivot the date column and convert it into a suitable format. Following this, I created a database in SQL, establishing four tables by usimg commands, into which I imported the processed data.
+
 Conclusion:
 
 Q1. What has been the unemployment rate in India over the past five years?
