@@ -23,26 +23,21 @@ Q1. What has been the unemployment rate in India over the past five years?
 
 Unemployment increased from 2017 to 2020, but has shown a declining trend in 2021.
 
-
 Q2. How do rural and urban unemployment rates compare during this period?
 
 Urban areas have contributed more to unemployment than rural areas over the past five years.
-
 
 Q3. How have individual states in India performed in terms of unemployment over the last five years?
 
 Tripura has consistently performed poorly, while Karnataka has emerged as the best performer.
 
-
 Q4. Within lower-performing states, which regions (rural or urban) contribute most to unemployment?
 
 The trend mirrors the national pattern, with urban areas contributing more to unemployment than rural regions.
 
-
 Q5. Region wise trend based on individual state performance?
 
 Regionally, northern states tend to have higher unemployment rates compared to other regions.
-
 
 Q6. For each region what are the unemployment rate for states?
 
@@ -54,8 +49,7 @@ In east region,Jharkhand has the highest unemployment rate.
 
 In west region,Goa has the highest unemployment rate.
 
-In northesat region,Tripura has the highest unemployment rate.
-
+In northeasat region,Tripura has the highest unemployment rate.
 
 Q6. Which state has seen the most improvement in reducing unemployment post-COVID?
 
