@@ -9,6 +9,7 @@ Data source:kaggle
 Data set link:https://www.kaggle.com/datasets/ysthehurricane/impact-of-covid19-on-unemployment-rate-in-india
 
 Data description:
+
 The dataset includes several tables capturing state-wise and region-wise unemployment data across India, focusing on both rural and urban sectors. Key attributes such as unemployment rate, number of employed individuals, and labor participation rate are recorded for each state, accompanied by a date to track temporal trends. The data is organized by state and further categorized by region (North, South, East, West, and Northeast), with geographic markers like longitude and latitude for spatial analysis. Separate tables are provided for monthly total, rural, and urban unemployment statistics, allowing for detailed sectoral comparisons. Additionally, the dataset supports longitudinal analysis, making it possible to study trends over time, especially before and after the COVID-19 pandemic.
 
 Conclusion:
